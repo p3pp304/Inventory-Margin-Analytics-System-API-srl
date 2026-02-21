@@ -36,8 +36,7 @@ Summary dashboard for management control:
 * Real-time overview of current stock levels.
 * History of Inbound and Outbound flows for each product
 
-![Inventory Analytics](screenshots/Inventory%20Analytics%20&%20Profit%20Margin%20Overview.png)
-
+![Inventory Analytics](screenshots/Inventory%20Analytics_Profit%20Margin%20Overview.png)
 ---
 
 ## 🔗 External Resources
