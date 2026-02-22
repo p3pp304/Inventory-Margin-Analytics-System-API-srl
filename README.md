@@ -50,3 +50,11 @@ For an interactive and dynamic view of the system, you can access the live sprea
 * **Microsoft Excel**: Advanced calculation logic and local database management.
 * **Google Sheets**: Cloud synchronization and collaborative access.
 * **Git/GitHub**: project documentation.
+
+
+## 👨‍💻 Author
+
+**Giuseppe Fuzio**
+*Engineering Student - Polytechnic University of Bari*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/giuseppe-fuzio)
