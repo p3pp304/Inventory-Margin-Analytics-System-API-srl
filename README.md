@@ -55,6 +55,6 @@ For an interactive and dynamic view of the system, you can access the live sprea
 ## 👨‍💻 Author
 
 **Giuseppe Fuzio**
-*Engineering Student - Polytechnic University of Bari*
+*Computer Science Engineering Student - Polytechnic University of Bari*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/giuseppe-fuzio)
